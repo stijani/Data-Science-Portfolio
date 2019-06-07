@@ -1,0 +1,18 @@
+https://www.nairaland.com/1279130/canadian-federal-skilled-worker-program-timelines - initial
+https://www.nairaland.com/2624318/canadian-express-entry-federal-skilled - 1
+https://www.nairaland.com/3999848/canadian-express-entry-federal-skilled - 2
+https://www.nairaland.com/4212543/canadian-express-entry-federal-skilled#62945314 - 3
+https://www.nairaland.com/4472519/canadian-express-entry-federal-skilled - 4
+https://www.nairaland.com/4657743/canadian-express-entry-federal-skilled - 5
+https://www.nairaland.com/4843199/canadian-express-entry-federal-skilled - 6
+https://www.nairaland.com/5031893/canadian-express-entry-federal-skilled - 7
+
+Scrapy commands
+
+response.css(".narrow , .pd::text").extract() - extract a full comment
+response.css(".narrow, .div::text").extract() - same as above but more intuitive, narrow is the class, div the division or section
+
+
+
+
+
