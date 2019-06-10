@@ -1,8 +1,8 @@
-Pothole Detection and Localization using Deep Learning (CNN)
+## Pothole Detection and Localization using Deep Learning (CNN)
 
-Background
+**Background**
 
-The nature of the road surface a vehicle plies can have a huge impact on its wear and tear rate. It’s one of the major determinants in estimating the frequency of maintenance required to keep a vehicle in good condition. Human drivers are quite good at spotting these road irregularities and manoeuvring manned vehicles to avoid them. What if we train a machine to be able to do the same? It will sure be a worthwhile. 
+- The nature of the road surface a vehicle plies can have a huge impact on its wear and tear rate. It’s one of the major determinants in estimating the frequency of maintenance required to keep a vehicle in good condition. Human drivers are quite good at spotting these road irregularities and manoeuvring manned vehicles to avoid them. What if we train a machine to be able to do the same? It will sure be a worthwhile. 
 
 Solution 
 
