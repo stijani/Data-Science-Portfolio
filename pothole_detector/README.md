@@ -2,7 +2,7 @@ Pothole Detection and Localization using Deep Learning (CNN)
 
 Background
 
-The nature of the road surface a vehicle plies can have a huge impact on its wear and tear rate. It’s one of the major determinants in estimating the frequency of maintenance required to keep a vehicle in good condition. Human drivers are quite good at spotting these road irregularities and manoeuvring manned vehicles to avoid them. What if we train a machine to be able to do the same? It will sure be a worthwhile. 
+The nature of the road surface a vehicle plies can have a huge impact on its wear and tear rate. Itâ€™s one of the major determinants in estimating the frequency of maintenance required to keep a vehicle in good condition. Human drivers are quite good at spotting these road irregularities and manoeuvring manned vehicles to avoid them. What if we train a machine to be able to do the same? It will sure be a worthwhile. 
 
 Solution 
 
@@ -10,9 +10,9 @@ In this project, I have built a binary classifier capable of detecting the prese
 
 Areas of commercial application
 
-•	Insurance – to aid objective vehicle insurance premium calculation
-•	Road network maintenance - government agencies 
-•	Autonomous vehicle vision
+â€¢	Insurance â€“ to aid objective vehicle insurance premium calculation
+â€¢	Road network maintenance - government agencies 
+â€¢	Autonomous vehicle vision
 
 Data source
 
