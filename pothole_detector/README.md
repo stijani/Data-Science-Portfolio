@@ -16,6 +16,6 @@ In this project, I have built a binary classifier capable of detecting the prese
 
 **Data source**
 
-**The data was made available from this academic research work** https://www.researchgate.net/publication/279538022_Detecting_Potholes_Using_Simple_Image_Processing_Techniques_and_Real-World_Footage through this shared Google drive folder:https://drive.google.com/drive/folders/1vUmCvdW3-2lMrhsMbXdMWeLcEz__Ocuy 
+The data was made available from this academic research work https://www.researchgate.net/publication/279538022_Detecting_Potholes_Using_Simple_Image_Processing_Techniques_and_Real-World_Footage through this shared Google drive folder:https://drive.google.com/drive/folders/1vUmCvdW3-2lMrhsMbXdMWeLcEz__Ocuy 
 
 
