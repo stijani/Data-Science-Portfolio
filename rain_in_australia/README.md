@@ -1,4 +1,4 @@
-## Will it Rain in Australia Tomorrow?  - Machine Learning Project
+## Will it Rain in Australia Tomorrow?
 
 **Objective**
 To predict whether or not it will rain anywhere in Australia tomorrow.
