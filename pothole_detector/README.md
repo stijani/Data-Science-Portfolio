@@ -1,4 +1,4 @@
-## Pothle and Road Surface Irregularity Detector with Convolution Neural Network
+## Pothle and Road Surface Irregularity Detector - Convolution Neural Network
 
 **Background**
 
