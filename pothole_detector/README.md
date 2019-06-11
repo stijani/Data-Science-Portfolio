@@ -1,4 +1,4 @@
-## Pothole Detection and Localization using Deep Learning (CNN)
+## Pothle and Road Surface Irregularity Detector with Convolution Neural Network
 
 **Background**
 
